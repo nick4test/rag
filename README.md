@@ -3,6 +3,7 @@ INSTALL following requirementents in requirements.txt
 pip install -r requirements.txt
 
 langchain
+
 python-dotenv
 langchain_community
 langchain_openai
