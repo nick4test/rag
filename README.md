@@ -1,3 +1,5 @@
+This is a streamlit application
+
 INSTALL following requirementents in requirements.txt
 
 pip install -r requirements.txt
